@@ -8,3 +8,6 @@ if (nota>=7) {
 } else {
     console.log(chalk.red("Reprovado!"))
 }
+
+//baixar versão antiganpm uninstall chalk
+//npm install chalk@4
